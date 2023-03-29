@@ -1,8 +1,4 @@
-# Young Entrepreneur E-Negosyo System v1.0 has Cross-site scripting (reflected)
-
 BUG_Author: aroc
-
-Website source address: https://www.sourcecodester.com/php/12684/young-entrepreneur-e-negosyo-system.html
 
 Vulnerability File: /bsenordering/admin/category/index.php
 
